@@ -1,0 +1,13 @@
+.cover__link{
+text-decoration: none;
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+@media all and (min-width: 768px) {
+    .cover__link{
+        height: 100vh;
+    }
+} 
+

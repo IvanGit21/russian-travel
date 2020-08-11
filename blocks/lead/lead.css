@@ -1,0 +1,14 @@
+@import url(./__caption/lead__caption.css);
+@import url(./__image/lead__image.css);
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+
+.lead{
+    padding: 48px 0 0;
+}
+
+@media all and (min-width: 1280px) {
+    .lead{
+        padding: 56px 0 0;
+    }
+}

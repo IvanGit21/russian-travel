@@ -1,0 +1,16 @@
+.place__paragraph-first{
+font-family: Inter;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 163%;
+color: #FFFFFF;
+margin: 0 0 24px;
+padding:0;
+}
+@media all and (min-width: 1024px) {
+    .place__paragraph-first{
+        font-size: 18px;
+        
+    }
+}
