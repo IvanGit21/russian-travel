@@ -1,3 +1,5 @@
-1.Путешествие по Росии.
+1.Путешествие по России.
 2.Проект нацелен на улучшение знаний о путешествии по России;в развлекательных целях.
-3.https://ivangit21.github.io/russian-travel/ .
+3.Flex-box,Grid-Laout
+
+<https://ivangit21.github.io/russian-travel/>

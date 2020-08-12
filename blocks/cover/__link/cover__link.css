@@ -4,10 +4,23 @@ display: flex;
 justify-content: center;
 align-items: center;
 text-align: center;
+position: relative;
+z-index: 2;
 }
 @media all and (min-width: 768px) {
     .cover__link{
-        height: 100vh;
+        min-height: 480px;
     }
 } 
 
+@media all and (min-width: 1024px) {
+    .cover__link{
+        min-height: 640px;
+    }
+} 
+
+@media all and (min-width: 1280px) {
+    .cover__link{
+        min-height: 740px;
+    }
+} 

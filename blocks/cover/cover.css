@@ -9,6 +9,8 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    max-width: 1184px;
+    margin: 0 auto;
 }
 
 .cover::before{
@@ -25,9 +27,3 @@
 .cover:hover{
     opacity: 0.8;
     }
-
-    @media all and (min-width: 1280px) {
-        .cover{
-            margin:0 48px;
-        }
-    } 
