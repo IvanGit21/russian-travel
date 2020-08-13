@@ -5,6 +5,9 @@
 
 .lead{
     padding: 48px 0 0;
+    text-align: center;
+    max-width: 1184px;
+    margin: 0 auto;
 }
 
 @media all and (min-width: 1280px) {

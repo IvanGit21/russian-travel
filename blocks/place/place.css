@@ -33,6 +33,6 @@
     .place{
         grid-template-columns: calc(50% - 32px) calc(50% - 8px);
         grid-column-gap: 40px;
-        padding: 0 148px 80px;
+        padding: 0 100px 80px;
     }
 }

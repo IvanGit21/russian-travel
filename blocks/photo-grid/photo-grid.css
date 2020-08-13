@@ -10,6 +10,8 @@ grid-gap: 12px;
     .photo-grid{
         padding:0 24px 88px;
         grid-gap: 16px;
+        max-width: 1184px;
+    margin: 0 auto;
     }
 }
 @media all and (min-width: 1024px) {

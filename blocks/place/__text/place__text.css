@@ -1,5 +1,6 @@
 .place__text{
     font-family: 'Inter', Arial, sans-serif;
+    padding: 0 16px;
 }
 
 @media all and (min-width: 768px) {
